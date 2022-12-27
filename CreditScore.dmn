@@ -366,7 +366,7 @@
     <dmn:variable id="_28AE0851-2866-4710-89D0-34EF8323D058" name="Antiguedad" typeRef="number"/>
   </dmn:inputData>
   <dmn:textAnnotation id="_53772808-DAAE-4C2E-865B-A50C8F00D0BC" textFormat="text/plain">
-    <dmn:text>TextAnnotation-1</dmn:text>
+    <dmn:text>Another text annotation</dmn:text>
   </dmn:textAnnotation>
   <dmndi:DMNDI>
     <dmndi:DMNDiagram id="_F4CE567E-4D92-4581-AC27-B84A0FD1BDC1" name="DRG">
@@ -541,7 +541,7 @@
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="128" y="89" width="100" height="50"/>
+        <dc:Bounds x="99" y="6" width="100" height="50"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNEdge id="dmnedge-drg-_7FDF66DA-B7A1-4F3B-B593-5B0CC260EF29" dmnElementRef="_7FDF66DA-B7A1-4F3B-B593-5B0CC260EF29">
