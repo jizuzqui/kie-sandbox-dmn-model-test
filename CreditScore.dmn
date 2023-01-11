@@ -345,7 +345,7 @@
     <dmn:encapsulatedLogic id="_0E9A4572-9112-4F2A-9A05-F390F4B5C2E9" kind="FEEL">
       <dmn:formalParameter id="_DBF6C66C-A167-4E89-BB6B-DA7888F5D2EC" name="Antiguedad" typeRef="number"/>
       <dmn:literalExpression id="_745332A4-2DDE-4B12-8F91-62C7F66C65D9">
-        <dmn:text>-0.004445622 * (Antiguedad - 12)</dmn:text>
+        <dmn:text>-0.008445622 * (Antiguedad - 12)</dmn:text>
       </dmn:literalExpression>
     </dmn:encapsulatedLogic>
   </dmn:businessKnowledgeModel>
